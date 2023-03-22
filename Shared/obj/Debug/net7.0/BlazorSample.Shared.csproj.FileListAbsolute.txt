@@ -1,0 +1,12 @@
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/bin/Debug/net7.0/BlazorSample.Shared.deps.json
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/bin/Debug/net7.0/BlazorSample.Shared.dll
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/bin/Debug/net7.0/BlazorSample.Shared.pdb
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.csproj.AssemblyReference.cache
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.AssemblyInfoInputs.cache
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.AssemblyInfo.cs
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.csproj.CoreCompileInputs.cache
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.dll
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/refint/BlazorSample.Shared.dll
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/BlazorSample.Shared.pdb
+/Users/rahimovca/Projects/DotNet/Blazor/BlazorSample/Shared/obj/Debug/net7.0/ref/BlazorSample.Shared.dll
